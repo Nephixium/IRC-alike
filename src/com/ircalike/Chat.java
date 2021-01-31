@@ -15,8 +15,6 @@ import java.net.Socket;
  * @version 1.0
  */
 
-// Git-testing
-
 public class Chat implements Runnable {
 
     private JFrame frame;
